@@ -1,6 +1,6 @@
 # 🧠 Predicting Traffic Accident Severity in Montgomery County, MD: A Data Science Capstone Project
 
-This project was completed as part of a graduate-level data science program. It focuses on predicting driver injury severity, driver vehicle damage extent, and number of indivuals involved, using real-world data. The work covers the full data science pipeline—from data cleaning and exploratory analysis to machine learning modeling and evaluation.
+This project was completed as part of a graduate-level data science program. It focuses on predicting driver injury severity, driver vehicle damage extent, and number of individuals involved, using real-world data. The work covers the full data science pipeline—from data cleaning and exploratory analysis to machine learning modeling and evaluation.
 
 📄 A full 73-page project report is available [here](https://github.com/jdrodge2/Capstone/blob/master/Final%20Manuscript%20-%20Jacob%20Rodgers.pdf).
 
